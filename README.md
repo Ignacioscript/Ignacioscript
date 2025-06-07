@@ -20,6 +20,7 @@ I am an **Analyst and Software Development student**, passionate about **backend
 - **Arch Linux** (everyday OS)
 - **LaTeX** (for professional documentation)
 - **PHP - LARAVEL** (proficient)
+- **GO - KOTLIN** (Basic)
 - **Sigil** (for ebook creation)
 
 ## 📚 What I Do
