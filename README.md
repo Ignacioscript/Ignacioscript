@@ -7,19 +7,19 @@ I am an **Analyst and Software Development student**, passionate about **backend
 
 ## 🚀 About Me
 
-- 🎯 On a mission to become a **Java Champion** and **Cloud Architect**.
+- 🎯 On a mission to become a **Java Champion** and **Cloud Native Architect**.
 - 📖 I am also an **ebook developer**, turning a hobby into a growing entrepreneurship. I create and design ebooks, primarily focused on my previous career as a **nutritionist**, helping others to share their knowledge.
 - 💡 Having a background in **nutrition** gives me unique insights into creating innovative tech solutions tailored to that market.
 
 ## 🔧 Technologies & Skills
 
 - **Java** (primary focus)
-- **SQL, JDBC, DAOs**
+- **SQL, JDBC, SPRING FRAMEWORK, RAW CODE**
 - **Test-Driven Development (TDD)**
 - **Cloud Computing** (learning in progress)
-- **Linux** (everyday OS)
+- **Arch Linux** (everyday OS)
 - **LaTeX** (for professional documentation)
-- **PHP** (learner)
+- **PHP - LARAVEL** (proficient)
 - **Sigil** (for ebook creation)
 
 ## 📚 What I Do
